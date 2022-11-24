@@ -1,4 +1,7 @@
 # weather_app
+1-Just Enter any Country OR City name 
+2-you will get the full details of the Weather including:
+  [Updated Date- Average Temperature-min Temperature-max Temperature- Weather Condition]
 
 A new Flutter project.
 
